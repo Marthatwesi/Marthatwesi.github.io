@@ -31,3 +31,12 @@ width: 60%;
 padding: 5px;
 margin:20px auto;
 }
+
+.background h3{
+  color: green;
+  text-decoration: underline;
+}
+.background{
+  font-family: serif;
+  font-style: italic;
+}
