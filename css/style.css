@@ -8,17 +8,14 @@ h2{
   text-decoration: underline;
 }
 .column{
-  width: 300px;
-  float: left;
-  padding: 10px;
-  margin: 5px;
-  border: 1px green solid;
-  background: blue;
+  width: 350px;
+    float:left;
+    padding-top: 300px;
+    border: 2px solid-blue;
 }
 .list{
-  margin: 0px;
-  text-align: left;
-}
-.container{
-  widith:500px;
+  width: 30%;
+    float: left;
+    background-color: yellow;
+    padding-top: ;
 }
