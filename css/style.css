@@ -1,3 +1,7 @@
+body{
+  background-color: grey;
+}
+
 h1{
   text-align: center;
   color: yellow-green;
@@ -8,14 +12,22 @@ h2{
   text-decoration: underline;
 }
 .column{
-  width: 350px;
+  width: 600px;
     float:left;
-    padding-top: 300px;
-    border: 2px solid-blue;
+    padding-left:45px;
+    padding-top: 0px;
+
+    margin: 0.1px;
+    font-size: 18px;
+
 }
 .list{
   width: 30%;
-    float: left;
-    background-color: yellow;
-    padding-top: ;
+    margin: 7px;
+}
+.container{
+  background: pink;
+width: 60%;
+padding: 5px;
+margin:20px auto;
 }
