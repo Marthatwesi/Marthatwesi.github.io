@@ -13,4 +13,12 @@ h2{
   padding: 10px;
   margin: 5px;
   border: 1px green solid;
+  background: blue;
+}
+.list{
+  margin: 0px;
+  text-align: left;
+}
+.container{
+  widith:500px;
 }
