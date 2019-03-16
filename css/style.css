@@ -5,8 +5,9 @@ body{
 
 h1{
   text-align: center;
-  color: yellow-green;
+  color: black 60%;
   text-decoration: underline;
+  font-family:sans-serif;
 }
 h2{
   color: blue;
